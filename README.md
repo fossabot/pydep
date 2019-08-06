@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzt2%2Fpydep.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzt2%2Fpydep?ref=badge_shield)
+
 pydep
 =====
 
@@ -49,3 +51,7 @@ Install nose (`pip install nose`). Then, `nosetests -s` from the root repository
 Contributing
 ------------
 Make a pull request!
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzt2%2Fpydep.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzt2%2Fpydep?ref=badge_large)
